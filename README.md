@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/github/stars/lixingyuan0817?style=for-the-badge&color=2C5364&label=Stars" alt="Stars" />
 </div>
 
+## 🐍 Contribution activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lixingyuan0817/lixingyuan0817/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</div>
+
 <div align="center">
 
 ### Thanks for stopping by ✨
