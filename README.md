@@ -32,17 +32,17 @@
   <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,git,github,docker,redis,mssql&perline=8" alt="Tech stack icons" />
 </p>
 
-## 📊 GitHub
+## 🚀 Featured projects
+
+- [**AeterniUI**](https://github.com/lixingyuan0817/AeterniUI) — .NET UI 相关项目
+- [**AeterniTunnel**](https://github.com/lixingyuan0817/AeterniTunnel) — C# 网络工具项目
+
+## 📊 GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lixingyuan0817&show_icons=true&hide_border=true&border_radius=12&title_color=2C5364&icon_color=2C5364&text_color=536471&bg_color=ffffff" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixingyuan0817&layout=compact&hide_border=true&border_radius=12&title_color=2C5364&text_color=536471&bg_color=ffffff" alt="Most used languages" />
-</div>
-
-## 🐍 Contribution activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lixingyuan0817/lixingyuan0817/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://img.shields.io/github/commit-activity/y/lixingyuan0817/lixingyuan0817?style=for-the-badge&color=2C5364&label=Profile%20commits" alt="Profile commits" />
+  <img src="https://img.shields.io/github/repos/lixingyuan0817?style=for-the-badge&color=203A43&label=Repositories" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/lixingyuan0817?style=for-the-badge&color=2C5364&label=Stars" alt="Stars" />
 </div>
 
 <div align="center">
